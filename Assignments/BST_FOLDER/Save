@@ -1,0 +1,19 @@
+/*std::cout << "Enter the numbers to be stored (end with a letter): ";
+
+    while (!std::cin.fail()){
+        std::cin >> temp;
+        myBST.insertKey(temp);
+    }
+
+    std::cout << "\nWhich is the number you want to look up? ";
+    std::cin >> searchNum;
+    std::cout << searchNum << "is in the tree: ";
+
+    if (myBST.hasKey(searchNum)){std::cout << "yes";}
+    else{std::cout << "no";}
+
+    std::cout << "\nThe numbers in sorted order: ";
+    sortedNums = myBST.inOrder();
+
+    heightTree = myBST.getHeight();
+    std::cout << "Height of the tree: " << heightTree;*/
